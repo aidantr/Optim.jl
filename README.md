@@ -129,11 +129,11 @@ or through the `pkg` REPL mode by typing
 If you use `Optim.jl` in your work, please cite the following.
 
 ```tex
-@article{mogensen2018optim,
-  author  = {Mogensen, Patrick Kofod and Riseth, Asbj{\o}rn Nilsen},
-  title   = {Optim: A mathematical optimization package for {Julia}},
-  journal = {Journal of Open Source Software},
-  year    = {2018},
+@article{lewis2022fuzzy,
+  author  = {Lewis, Daniel and Davide Melcangi and Laura Pilossph and Aidan Toner-Rodgers},
+  title   = {Approximating Grouped Fixed Effects Estimation via Fuzzy Clustering Regression},
+  journal = {Journal of Applied Economietrics},
+  year    = {2022},
   volume  = {3},
   number  = {24},
   pages   = {615},
